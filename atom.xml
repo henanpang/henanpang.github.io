@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://henanpang.github.io</id>
-    <title>BIN Query</title>
-    <updated>2022-04-14T13:39:55.624Z</updated>
+    <title></title>
+    <updated>2022-04-14T13:41:33.646Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://henanpang.github.io"/>
     <link rel="self" href="https://henanpang.github.io/atom.xml"/>
     <subtitle>A convenient  app to query BIN.</subtitle>
     <logo>https://henanpang.github.io/images/avatar.png</logo>
     <icon>https://henanpang.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2022, BIN Query</rights>
+    <rights>All rights reserved 2022, </rights>
 </feed>
